@@ -4,7 +4,7 @@ site_url: https://eanyang7.github.io/AI_SaaS  # mkdocs serve ——》 Browser c
 site_description: "AI-SaaS"   #
 site_author: Ean Yang 
 # 仓库
-repo_url: https://github.com/EanYang7//AI_SaaS   #
+repo_url: https://github.com/EanYang7//AI_SaaS_docs   #
 repo_name: github仓库   
  
 theme:
@@ -59,6 +59,7 @@ theme:
     # 编辑和查看源码
     - content.action.edit
     - content.action.view
+    - content.code.copy
 # 编辑链接
 edit_uri: "tree/main/docs/" 
 extra:
